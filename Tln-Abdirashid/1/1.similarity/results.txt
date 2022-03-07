@@ -1,0 +1,15 @@
+Results:
+****************************************************************************************************
+Similarity for the word "COURAGE": 0.43971631205673756
+Overlap list for "COURAGE": ['face', 'fear']
+
+Similarity for the word "PAPER": 0.4881889763779528
+Overlap list for "PAPER": ['material', 'cellulose']
+
+Similarity for the word "APPREHENSION": 0.2440944881889764
+Overlap list for "APPREHENSION": [['']]
+
+Similarity for the word "SHARPENER": 0.7948717948717948
+Overlap list for "SHARPENER": ['pencils', 'blade', 'sharpen']
+
+

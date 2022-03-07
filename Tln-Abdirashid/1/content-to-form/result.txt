@@ -1,0 +1,46 @@
+
+
+
+
+
+****************************************************************************************************
+Target terms : Courage
+Context obtained : fear ability face Ability something situation allows fear overcome despite u able dangerous difficult make without strength control take make
+Genus obtained : [('psychological_features', 248), ('sport', 165), ('economy', 153), ('factotum', 149), ('psychology', 142), ('person', 142), ('medicine', 139), ('card', 138), ('play', 133), ('quality', 133), ('physiology', 129), ('optics', 122), ('baseball', 122), ('military', 122), ('paranormal', 120)]
+Similarity: 0.8085426712318423 with Synset('herbal_medicine.n.01')
+Def : a medicine made from plants and used to prevent or treat disease or promote health
+
+****************************************************************************************************
+
+
+****************************************************************************************************
+Target terms : Paper
+Context obtained : material used writing write cellulose Material wood tree made obtained Product written derived especially one 's thin printing composed generally
+Genus obtained : [('publishing', 327), ('telecommunication', 265), ('drawing', 259), ('literature', 248), ('graphic_arts', 234), ('art', 222), ('post', 217), ('quality', 216), ('computer_science', 203), ('photography', 194), ('linguistics', 191), ('enterprise', 191), ('philology', 188), ('industry', 183), ('commerce', 182)]
+Similarity: 0.8383468462098886 with Synset('powder_photography.n.01')
+Def : a process for identifying minerals or crystals; a small rod is coated with a powdered form of the substance and subjected to suitably modified X-rays; the pattern of diffracted rings is used for identification
+
+****************************************************************************************************
+
+
+****************************************************************************************************
+Target terms : Apprehension
+Context obtained : something fear anxiety feeling happen state bad unpleasant State mind person strange one feel agitation Mental status situation emotion cause
+Genus obtained : [('psychological_features', 209), ('psychology', 144), ('paranormal', 114), ('pedagogy', 113), ('philosophy', 112), ('quality', 112), ('psychiatry', 108), ('law', 108), ('psychoanalysis', 105), ('factotum', 104), ('sociology', 102), ('theology', 101), ('person', 98), ('religion', 95), ('economy', 94)]
+Similarity: 0.8651292686440536 with Synset('ostrich.n.01')
+Def : a person who refuses to face reality or recognize the truth (a reference to the popular notion that the ostrich hides from danger by burying its head in the sand)
+
+****************************************************************************************************
+
+
+****************************************************************************************************
+Target terms : Sharpener
+Context obtained : sharpen pencil used tool pencil object Tool allows Object something sharp blade tip making mine write sharpening person device make
+Genus obtained : [('drawing', 227), ('industry', 192), ('plastic_arts', 171), ('publishing', 169), ('body_care', 159), ('transport', 158), ('mechanics', 154), ('buildings', 140), ('surgery', 138), ('sport', 135), ('chemistry', 131), ('artisanship', 131), ('computer_science', 131), ('electricity', 130), ('engineering', 129)]
+Similarity: 0.8224620161156991 with Synset('photocoagulation.n.01')
+Def : surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina
+
+****************************************************************************************************
+
+
+

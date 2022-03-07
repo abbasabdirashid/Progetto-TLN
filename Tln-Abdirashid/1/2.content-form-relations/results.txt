@@ -1,0 +1,19 @@
+
+
+Average length of definitions in Wordnet: 10.531468055992317
+
+Length of all definitions in Worndet: 117659
+
+Average height of definitions from Wordnet Root: 4.3789123627836375
+
+len of relations of type  HYPERNYMS  :  69201  of  117659  --->  0.588148802896506
+
+len of relations of type  HYPONYMS  :  1088  of  117659  --->  0.009247061423265538
+
+len of relations of type  MERONYMS  :  731  of  117659  --->  0.006212869393756534
+
+len of relations of type  HOLONYMYS  :  298  of  117659  --->  0.00215028174640274
+
+len of relations of type  ANTONYMS  :  694  of  117659  --->  0.005898401312266805
+
+len of relations of type  SYNONYMS  :  8312  of  117659  --->  0.0706448295498007
